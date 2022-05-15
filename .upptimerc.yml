@@ -10,11 +10,12 @@ sites:
 
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.arcaptcha.ir
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/arcaptcha/arcaptcha-laravel/raw/main/resources/images/arcaptcha-logo.png
   name: ARCaptcha
   introTitle: "ARCaptcha"
   introMessage: ARCaptcha Status
