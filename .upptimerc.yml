@@ -7,15 +7,19 @@ sites:
     url: https://arcaptcha.ir
   - name: ARCaptcha widget
     url: https://widget.arcaptcha.ir/1/api.js
+  - name: ARCaptcha API
+    url: https://api.arcaptcha.ir
+    expectedStatusCodes:
+      - 404
 
 
 status-website:
-  theme: dark
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.arcaptcha.ir
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ARCaptcha
   introTitle: "ARCaptcha"
   introMessage: ARCaptcha Status
