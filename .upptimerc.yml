@@ -6,7 +6,7 @@ sites:
   - name: ARCaptcha
     url: https://arcaptcha.ir
   - name: ARCaptcha widget
-    url: https://widget.arcaptcha.ir
+    url: https://widget.arcaptcha.ir/1/api.js
   - name: ARCaptcha API
     url: https://api.arcaptcha.ir
     expectedStatusCodes:
