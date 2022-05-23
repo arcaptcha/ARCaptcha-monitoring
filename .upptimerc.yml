@@ -1,6 +1,5 @@
-# Change these first
-owner: arcaptcha # Your GitHub organization or username, where this repository lives
-repo: ARCaptcha-monitoring # The name of this repository
+owner: arcaptcha 
+repo: ARCaptcha-monitoring
 
 sites:
   - name: ARCaptcha
@@ -15,11 +14,9 @@ sites:
 
 status-website:
   theme: night
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.arcaptcha.ir
   # baseUrl: /your-repo-name
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://arcaptcha.ir/_nuxt/023053fecdcdf20e40bdc993c754d487.svg
   name: ARCaptcha
   introTitle: "ARCaptcha"
   introMessage: ARCaptcha Status
@@ -28,6 +25,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
