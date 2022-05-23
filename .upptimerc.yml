@@ -15,6 +15,7 @@ sites:
 status-website:
   theme: night
   cname: status.arcaptcha.ir
+  favicon: https://arcaptcha.ir/favicon.ico
   # baseUrl: /your-repo-name
   logoUrl: https://arcaptcha.ir/_nuxt/023053fecdcdf20e40bdc993c754d487.svg
   name: ARCaptcha
