@@ -1,7 +1,7 @@
 url: https://api.arcaptcha.ir
-status: up
-code: 404
-responseTime: 721
-lastUpdated: 2022-07-06T11:22:22.543Z
+status: down
+code: 412
+responseTime: 170
+lastUpdated: 2022-07-06T14:24:54.273Z
 startTime: Mon May 16 2022 13:51:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
