@@ -3,11 +3,11 @@ repo: ARCaptcha-monitoring
 
 sites:
   - name: ARCaptcha
-    url: https://arcaptcha.ir
+    url: https://arcaptcha.co
   - name: ARCaptcha widget
-    url: https://widget.arcaptcha.ir/1/api.js
+    url: https://widget.arcaptcha.co/1/api.js
   - name: ARCaptcha API
-    url: https://api.arcaptcha.ir
+    url: https://api.arcaptcha.co
     expectedStatusCodes:
       - 404
 
