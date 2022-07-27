@@ -3,7 +3,7 @@ repo: ARCaptcha-monitoring
 
 sites:
   - name: ARCaptcha
-    url: https://arcaptcha.co
+    url: https://arcaptcha.co/fa
   - name: ARCaptcha widget
     url: https://widget.arcaptcha.co/1/api.js
   - name: ARCaptcha API
