@@ -8,7 +8,7 @@ sites:
     url: https://widget.arcaptcha.co/1/api.js
   - name: ARCaptcha API
     url: https://api.arcaptcha.ir/arcaptcha/api/heartbeat
-    __dangerous__body_down: 'false'
+    __dangerous__body_down: 'true'
 
 
 status-website:
