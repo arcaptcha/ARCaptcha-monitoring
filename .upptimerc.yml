@@ -7,9 +7,8 @@ sites:
   - name: ARCaptcha widget
     url: https://widget.arcaptcha.co/1/api.js
   - name: ARCaptcha API
-    url: https://api.arcaptcha.co
-    expectedStatusCodes:
-      - 404
+    url: https://api.arcaptcha.ir/arcaptcha/api/heartbeat
+    __dangerous__body_down: 'false'
 
 
 status-website:
