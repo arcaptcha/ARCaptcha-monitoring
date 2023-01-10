@@ -1,7 +1,7 @@
 url: https://arcaptcha.co/fa
-status: up
-code: 200
-responseTime: 2107
-lastUpdated: 2023-01-10T09:54:39.990Z
+status: down
+code: 504
+responseTime: 15373
+lastUpdated: 2023-01-10T10:43:15.720Z
 startTime: Sun May 15 2022 19:46:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
