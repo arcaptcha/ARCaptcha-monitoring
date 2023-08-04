@@ -13,7 +13,7 @@
     "time": 4742,
     "timeDay": 2270,
     "timeWeek": 3901,
-    "timeMonth": 3417,
+    "timeMonth": 3473,
     "timeYear": 4932,
     "dailyMinutesDown": {
       "2023-07-31": 20,
@@ -217,9 +217,9 @@
     "url": "https://api.arcaptcha.ir/arcaptcha/api/s3",
     "icon": "https://icons.duckduckgo.com/ip3/api.arcaptcha.ir.ico",
     "slug": "ar-captcha-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "98.83%",
@@ -229,6 +229,7 @@
     "timeMonth": 1886,
     "timeYear": 1592,
     "dailyMinutesDown": {
+      "2023-08-04": 0,
       "2023-07-26": 28,
       "2023-07-06": 37,
       "2023-06-14": 153,
