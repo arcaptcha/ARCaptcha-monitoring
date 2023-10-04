@@ -1,7 +1,7 @@
 url: https://widget.arcaptcha.co/1/api.js
-status: up
-code: 200
-responseTime: 1958
-lastUpdated: 2023-10-03T23:08:31.503Z
+status: down
+code: 504
+responseTime: 16202
+lastUpdated: 2023-10-04T09:52:46.184Z
 startTime: 2022-05-15T19:46:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
