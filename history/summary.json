@@ -213,19 +213,19 @@
     "url": "https://de-api.arcaptcha.co/arcaptcha/api/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/de-api.arcaptcha.co.ico",
     "slug": "ar-captcha-de-api",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 1328,
-    "timeDay": 1411,
-    "timeWeek": 1317,
-    "timeMonth": 1328,
-    "timeYear": 1328,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 1324,
+    "timeDay": 1369,
+    "timeWeek": 1310,
+    "timeMonth": 1324,
+    "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-10-09": 41
+      "2023-10-09": 51
     }
   },
   {
