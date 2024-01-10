@@ -6,17 +6,16 @@
     "slug": "ar-captcha",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.65%",
-    "time": 3758,
-    "timeDay": 1782,
-    "timeWeek": 1656,
-    "timeMonth": 2058,
-    "timeYear": 3624,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.66%",
+    "time": 3748,
+    "timeDay": 1665,
+    "timeWeek": 1693,
+    "timeMonth": 2057,
+    "timeYear": 3626,
     "dailyMinutesDown": {
-      "2024-01-09": 11,
       "2023-12-31": 35,
       "2023-11-25": 33,
       "2023-11-01": 19,
@@ -61,8 +60,7 @@
       "2023-01-30": 47,
       "2023-01-17": 38,
       "2023-01-15": 22,
-      "2023-01-11": 10,
-      "2023-01-10": 48
+      "2023-01-11": 10
     }
   },
   {
@@ -76,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1981,
-    "timeDay": 1265,
-    "timeWeek": 1540,
-    "timeMonth": 1663,
-    "timeYear": 2065,
+    "time": 1983,
+    "timeDay": 1321,
+    "timeWeek": 1533,
+    "timeMonth": 1655,
+    "timeYear": 2064,
     "dailyMinutesDown": {
       "2023-11-25": 33,
       "2023-06-25": 30,
@@ -104,12 +102,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.28%",
-    "time": 2449,
-    "timeDay": 1391,
-    "timeWeek": 1079,
+    "uptimeYear": "99.34%",
+    "time": 2426,
+    "timeDay": 938,
+    "timeWeek": 1098,
     "timeMonth": 1212,
-    "timeYear": 2142,
+    "timeYear": 2143,
     "dailyMinutesDown": {
       "2023-11-25": 32,
       "2023-11-02": 16,
@@ -144,8 +142,7 @@
       "2023-01-18": 72,
       "2023-01-17": 764,
       "2023-01-16": 120,
-      "2023-01-14": 11,
-      "2023-01-10": 40
+      "2023-01-14": 11
     }
   },
   {
@@ -159,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1900,
-    "timeDay": 1565,
-    "timeWeek": 1561,
-    "timeMonth": 1678,
-    "timeYear": 1900,
+    "time": 1898,
+    "timeDay": 1603,
+    "timeWeek": 1600,
+    "timeMonth": 1682,
+    "timeYear": 1898,
     "dailyMinutesDown": {
       "2023-12-03": 31,
       "2023-11-25": 32,
@@ -179,15 +176,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.arcaptcha.ir.ico",
     "slug": "ar-captcha-s3",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.16%",
-    "time": 1215,
-    "timeDay": 253,
-    "timeWeek": 1613,
-    "timeMonth": 1064,
+    "time": 1214,
+    "timeDay": 262,
+    "timeWeek": 1618,
+    "timeMonth": 1065,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2024-01-04": 16,
@@ -232,8 +229,7 @@
       "2023-02-01": 22,
       "2023-01-30": 21,
       "2023-01-18": 72,
-      "2023-01-17": 764,
-      "2023-01-10": 29
+      "2023-01-17": 764
     }
   }
 ]
