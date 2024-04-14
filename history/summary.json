@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 3293,
-    "timeDay": 1579,
-    "timeWeek": 1657,
-    "timeMonth": 2169,
-    "timeYear": 2996,
+    "time": 3291,
+    "timeDay": 1692,
+    "timeWeek": 1678,
+    "timeMonth": 2170,
+    "timeYear": 2995,
     "dailyMinutesDown": {
       "2024-03-06": 32,
       "2024-03-03": 16,
@@ -49,8 +49,7 @@
       "2023-04-20": 67,
       "2023-04-19": 122,
       "2023-04-18": 176,
-      "2023-04-16": 22,
-      "2023-04-15": 51
+      "2023-04-16": 22
     }
   },
   {
@@ -64,10 +63,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2036,
-    "timeDay": 1479,
-    "timeWeek": 1447,
-    "timeMonth": 1394,
+    "time": 2029,
+    "timeDay": 1426,
+    "timeWeek": 1462,
+    "timeMonth": 1390,
     "timeYear": 1881,
     "dailyMinutesDown": {
       "2024-02-08": 167,
@@ -90,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.79%",
-    "time": 1987,
-    "timeDay": 1127,
-    "timeWeek": 1098,
-    "timeMonth": 1929,
-    "timeYear": 1834,
+    "time": 1986,
+    "timeDay": 1040,
+    "timeWeek": 1065,
+    "timeMonth": 1933,
+    "timeYear": 1833,
     "dailyMinutesDown": {
       "2024-04-04": 19,
       "2024-03-02": 17,
@@ -112,8 +111,7 @@
       "2023-04-22": 16,
       "2023-04-20": 129,
       "2023-04-19": 181,
-      "2023-04-18": 173,
-      "2023-04-15": 83
+      "2023-04-18": 173
     }
   },
   {
@@ -127,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1873,
-    "timeDay": 1682,
-    "timeWeek": 1547,
-    "timeMonth": 1535,
-    "timeYear": 1873,
+    "time": 1871,
+    "timeDay": 1380,
+    "timeWeek": 1507,
+    "timeMonth": 1531,
+    "timeYear": 1871,
     "dailyMinutesDown": {
       "2024-02-08": 167,
       "2024-01-25": 82,
@@ -150,14 +148,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.arcaptcha.ir.ico",
     "slug": "ar-captcha-s3",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.55%",
-    "time": 1123,
-    "timeDay": 218,
-    "timeWeek": 228,
+    "time": 1122,
+    "timeDay": 223,
+    "timeWeek": 225,
     "timeMonth": 690,
     "timeYear": 845,
     "dailyMinutesDown": {
@@ -187,8 +185,7 @@
       "2023-05-02": 29,
       "2023-04-20": 129,
       "2023-04-19": 180,
-      "2023-04-18": 151,
-      "2023-04-15": 83
+      "2023-04-18": 151
     }
   }
 ]
