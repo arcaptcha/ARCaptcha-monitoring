@@ -9,6 +9,9 @@ sites:
   - name: ARCaptcha API
     url: https://api.arcaptcha.ir/arcaptcha/api/heartbeat
     __dangerous__body_down: 'false'
+  - name: RCaptcha API
+    url: https://rcaptcha.ir/arcaptcha/api/heartbeat
+    __dangerous__body_down: 'false'
   - name: ARCaptcha DE-API
     url: https://de-api.arcaptcha.co/arcaptcha/api/heartbeat
     __dangerous__body_down: 'false'
