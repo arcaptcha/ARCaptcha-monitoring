@@ -1,7 +1,7 @@
 url: https://api.arcaptcha.ir/arcaptcha/api/heartbeat
-status: down
-code: 504
-responseTime: 15481
-lastUpdated: 2025-10-13T18:55:51.322Z
+status: up
+code: 200
+responseTime: 1082
+lastUpdated: 2025-10-13T19:48:08.780Z
 startTime: 2022-05-16T13:51:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
