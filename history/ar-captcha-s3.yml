@@ -1,7 +1,7 @@
 url: https://api.arcaptcha.ir/arcaptcha/api/s3
-status: down
-code: 504
-responseTime: 15009
-lastUpdated: 2025-10-21T20:32:05.061Z
+status: up
+code: 200
+responseTime: 515
+lastUpdated: 2025-10-21T20:46:40.845Z
 startTime: 2022-12-14T12:21:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
