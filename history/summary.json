@@ -4,17 +4,17 @@
     "url": "https://arcaptcha.co/fa",
     "icon": "https://icons.duckduckgo.com/ip3/arcaptcha.co.ico",
     "slug": "ar-captcha",
-    "status": "down",
+    "status": "up",
     "uptime": "95.26%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "81.38%",
-    "time": 4714,
-    "timeDay": 2027,
-    "timeWeek": 2247,
-    "timeMonth": 2263,
-    "timeYear": 5287,
+    "uptimeDay": "88.95%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "81.35%",
+    "time": 4692,
+    "timeDay": 2332,
+    "timeWeek": 2296,
+    "timeMonth": 2275,
+    "timeYear": 5289,
     "dailyMinutesDown": {
       "2025-10-21": 234,
       "2025-10-22": 446,
@@ -111,7 +111,7 @@
       "2026-06-29": 2,
       "2026-07-22": 437,
       "2026-07-21": 532,
-      "2026-10-20": 6
+      "2026-10-20": 159
     }
   },
   {
@@ -129,7 +129,7 @@
     "timeDay": 1454,
     "timeWeek": 1211,
     "timeMonth": 1361,
-    "timeYear": 2829,
+    "timeYear": 2835,
     "dailyMinutesDown": {
       "2025-10-26": 552,
       "2025-11-04": 37,
@@ -211,7 +211,7 @@
     "timeDay": 948,
     "timeWeek": 940,
     "timeMonth": 1027,
-    "timeYear": 4189,
+    "timeYear": 4197,
     "dailyMinutesDown": {
       "2025-10-25": 43,
       "2025-10-30": 103,
@@ -331,7 +331,7 @@
     "timeDay": 732,
     "timeWeek": 768,
     "timeMonth": 764,
-    "timeYear": 6203,
+    "timeYear": 6217,
     "dailyMinutesDown": {
       "2025-10-25": 19,
       "2025-10-26": 62,
@@ -460,7 +460,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/de-api.arcaptcha.co.ico",
     "slug": "ar-captcha-de-api",
     "status": "down",
-    "uptime": "56.67%",
+    "uptime": "56.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -469,9 +469,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5471,
+    "timeYear": 5493,
     "dailyMinutesDown": {
-      "2026-10-20": 1264,
+      "2026-10-20": 1423,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -843,17 +843,17 @@
     "url": "https://api.arcaptcha.ir/arcaptcha/api/s3",
     "icon": "https://icons.duckduckgo.com/ip3/api.arcaptcha.ir.ico",
     "slug": "ar-captcha-s3",
-    "status": "down",
-    "uptime": "94.63%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "81.54%",
-    "time": 3383,
-    "timeDay": 1179,
-    "timeWeek": 1453,
-    "timeMonth": 1358,
-    "timeYear": 3963,
+    "status": "up",
+    "uptime": "94.62%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "81.51%",
+    "time": 3385,
+    "timeDay": 1243,
+    "timeWeek": 1435,
+    "timeMonth": 1356,
+    "timeYear": 3965,
     "dailyMinutesDown": {
       "2025-10-25": 23,
       "2025-10-26": 86,
@@ -953,7 +953,7 @@
       "2026-08-05": 91,
       "2026-08-19": 36,
       "2026-08-20": 44,
-      "2026-10-20": 0
+      "2026-10-20": 158
     }
   }
 ]
