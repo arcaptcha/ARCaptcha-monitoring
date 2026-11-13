@@ -4,11 +4,11 @@
     "url": "https://arcaptcha.co/fa",
     "icon": "https://icons.duckduckgo.com/ip3/arcaptcha.co.ico",
     "slug": "ar-captcha",
-    "status": "up",
+    "status": "down",
     "uptime": "95.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "81.62%",
     "time": 4530,
     "timeDay": 2041,
@@ -104,7 +104,8 @@
       "2026-06-29": 2,
       "2026-07-22": 437,
       "2026-07-21": 532,
-      "2026-10-20": 159
+      "2026-10-20": 159,
+      "2026-11-13": 3
     }
   },
   {
@@ -456,7 +457,7 @@
     "timeMonth": 0,
     "timeYear": 6032,
     "dailyMinutesDown": {
-      "2026-11-13": 306,
+      "2026-11-13": 422,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
